@@ -1,0 +1,17 @@
+{
+  "name": "fancyforms-demo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pixelfish22/fancyforms",
+  "authors": [
+    "Ken Korth <pixelfish22@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

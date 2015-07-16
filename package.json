@@ -1,0 +1,22 @@
+{
+  "name": "fancyforms",
+  "version": "0.0.1",
+  "description": "demo for aim-adv-scripting lecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pixelfish22/fancyforms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pixelfish22/fancyforms/issues"
+  },
+  "homepage": "https://github.com/pixelfish22/fancyforms",
+  "devDependencies": {
+    "bower": "^1.4.1"
+  }
+}
